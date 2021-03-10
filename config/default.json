@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "NuttertoolsZanussi1",
-  "mongoUri": "mongodb+srv://andrey-admin:kpXLrW9k@cluster0.cfkwx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
