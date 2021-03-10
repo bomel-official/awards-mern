@@ -1,0 +1,18 @@
+input[type=checkbox]:checked::before {
+    content: url(data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2020%2020%27%3E%3Cpath%20d%3D%27M14.83%204.89l1.34.94-5.81%208.38H9.02L5.78%209.67l1.34-1.25%202.57%202.4z%27%20fill%3D%27%231e8cbe%27%2F%3E%3C%2Fsvg%3E);
+    margin: -.1875rem 0 0 -.25rem;
+    height: 1.3125rem;
+    width: 1.3125rem;
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+}
+input#rememberme {
+    width: 1rem;
+    height: 1rem;
+    line-height: 0;
+    cursor: pointer;
+}
+#login h1,#login p.message{-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15)}#login a:active,#login form p.submit input[type=submit]:active{opacity:.8}#login{width:550px;max-width:100%;padding:20px;min-height:100vh;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;font-family:Montserrat,sans-serif}#login a{white-space:nowrap;font-family:Montserrat;text-decoration:none;font-weight:700;font-size:1rem;color:#FF4F08;padding-top:1px;border-bottom:1px solid transparent;-webkit-transition:border-bottom-color .3s ease-in-out,opacity .2s ease-in-out;transition:border-bottom-color .3s ease-in-out,opacity .2s ease-in-out}#login a:hover{border-bottom-color:#FF4F08}#login h1{text-align:center;padding:20px;background-color:#FF4F08;margin:0;box-shadow:0 10px 20px -5px rgba(0,0,0,.15);border-radius:5px 5px 0 0}#login h1 a{font-weight:700;font-size:4.57rem;line-height:5.2857rem;color:#FFF}#login p.message{background-color:#fff;box-shadow:0 10px 20px -5px rgba(0,0,0,.15);padding:30px 40px 0;color:#000;font-size:1.2857rem;line-height:1.5}#login p.message #text{padding-left:20px;border-left:3px solid #FF4F08}#login form{background-color:#fff;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15);box-shadow:0 10px 20px -5px rgba(0,0,0,.15);padding:50px 40px 0}#login form label{font-weight:500;color:#000;font-size:1.2857rem;line-height:1.57rem;display:inline-block;margin-bottom:10px}#login form div.user-pass-wrap,#login form>p{margin-bottom:40px}#login form .wp-pwd{position:relative}#login form .wp-pwd .wp-hide-pw{position:absolute;right:0;top:1px;bottom:1px;width:calc(20px + 3.4rem);border:none;outline:0;-webkit-box-shadow:none;box-shadow:none;background-color:transparent;text-align:center;line-height:calc(20px + 3.4rem)}#login form p.submit input[type=submit]{cursor:pointer;float:right;border:none;outline:0;white-space:nowrap;font-size:1rem;color:#fff;font-weight:700;text-decoration:none;-webkit-transition:opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out;transition:opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out;transition:box-shadow .3s ease-in-out,opacity .2s ease-in-out;transition:box-shadow .3s ease-in-out,opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out;background-color:#FF4F08;padding:15px 30px}#login form p.submit input[type=submit]>.button-text{margin-left:5px}#login form p.submit input[type=submit]:hover{-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.3);box-shadow:0 10px 20px -5px rgba(0,0,0,.3)}#login form p.forgetmenot{margin-bottom:0;float:left}#login form p.forgetmenot label{margin:0}#login form p.submit{margin-left:auto}#login p#nav{background-color:#fff;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15);box-shadow:0 10px 20px -5px rgba(0,0,0,.15);border-radius:0 0 5px 5px;margin:0;text-align:center;padding:30px 40px}#login p#backtoblog{text-align:center;margin-top:40px}

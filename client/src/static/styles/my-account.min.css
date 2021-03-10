@@ -1,0 +1,37 @@
+.file-button{
+    display: inline;
+    text-decoration: none;
+    padding: 5px 12px;
+    margin: 0;
+    height: 30px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #fafafa;
+    color: #23282d;
+    box-shadow: 0 1px 0 #cccccc;
+    vertical-align: top;
+    cursor: pointer;
+    -webkit-appearance: none;
+    white-space: nowrap;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.file-button:hover {
+    background: #fafafa;
+    border-color: #999;
+    color: #23282d;
+}
+input[type=file] {
+    display: none;
+}
+.my-account-content .bg-outer .center-container .field {
+    margin-bottom: 20px;
+}
+.my-account-content .bg-outer .center-container .file-uploader-label {
+    line-height: 28px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.my-account-content{margin:70px 0}.my-account-content .my-cabinet-nav .my-cabinet-menu-list{margin:0;padding:0;list-style:none;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.my-account-content .my-cabinet-nav .my-cabinet-menu-list .menu-item{width:50%;z-index:3;position:relative}.my-account-content .my-cabinet-nav .my-cabinet-menu-list .menu-item.current-menu-item{background-color:#fff;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15);box-shadow:0 10px 20px -5px rgba(0,0,0,.15);border-top:3px solid #FF4F08}.my-account-content .my-cabinet-nav .my-cabinet-menu-list .menu-item a{display:block;font-weight:700;font-size:1.7rem;line-height:2.07rem;text-align:center;padding:23px}.my-account-content .my-cabinet-nav .my-cabinet-menu-list .menu-item:nth-child(n+3){display:none}.my-account-content .bg-outer{background-color:#fff;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15);box-shadow:0 10px 20px -5px rgba(0,0,0,.15);z-index:5;position:relative;padding:50px 30px}.my-account-content .bg-outer .center-container{width:100%;max-width:725px;margin:0 auto}.my-account-content .bg-outer .center-container .wpuf-el.user_class,.my-account-content .bg-outer .center-container .wpuf-el.user_class_letter{float:left;margin-right:20px}.my-account-content .bg-outer .center-container ul.wpuf-form li{padding:0!important}.my-account-content .bg-outer .center-container ul.wpuf-form li:not(:last-child){margin-bottom:30px!important}.my-account-content .bg-outer .center-container ul.wpuf-form.form-label-above li .wpuf-label{margin-bottom:0!important}.my-account-content .bg-outer .center-container .wpuf-el.user_class input{width:94px!important;text-align:center}.my-account-content .bg-outer .center-container .wpuf-el.user_class_letter select{width:74px!important;max-width:74px!important;min-width:74px!important;text-align:center}.my-account-content .bg-outer .center-container .wpuf-el.user_class_letter select option{text-align:center}.my-account-content .bg-outer .center-container .wpuf-el.user_class_profile{display:inline-block;width:calc(100% - 208px)}.my-account-content .bg-outer .center-container img{max-width:100%}.my-account-content .bg-outer .center-container input:not([type=submit]){width:100%!important}.my-account-content .bg-outer .center-container select{height:auto!important}.my-account-content .bg-outer .center-container input[type=submit]{margin-left:auto!important;cursor:pointer!important;border:none!important;outline:0!important;display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;-webkit-box-align:center!important;-ms-flex-align:center!important;align-items:center!important;white-space:nowrap!important;font-size:1rem!important;line-height:1.2rem!important;color:#fff!important;font-weight:700!important;text-decoration:none!important;-webkit-transition:opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out!important;transition:opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out!important;transition:box-shadow .3s ease-in-out,opacity .2s ease-in-out!important;transition:box-shadow .3s ease-in-out,opacity .2s ease-in-out,-webkit-box-shadow .3s ease-in-out!important;background-color:#FF4F08!important;padding:15px 30px!important;-webkit-box-shadow:none!important;box-shadow:none!important;border-radius:0!important;text-shadow:none!important}.my-account-content .bg-outer .center-container input[type=submit]:active{opacity:.8!important}.my-account-content .bg-outer .center-container input[type=submit]:hover{-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.3)!important;box-shadow:0 10px 20px -5px rgba(0,0,0,.3)!important}.my-account-content .my-account-awards-list-block{margin:70px 0}.my-account-content .my-account-awards-list-block .flex-container{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.my-account-content .my-account-awards-list-block .flex-container .award-card{width:calc(25% - 20px);-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.15);box-shadow:0 10px 20px -5px rgba(0,0,0,.15);background-color:#fff;border-radius:5px;overflow:hidden;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.my-account-content .my-account-awards-list-block .flex-container .award-card .left-image-container{width:calc(50% - 10px);position:relative;padding-bottom:69.655%;background-color:#EDEDED}.my-account-content .my-account-awards-list-block .flex-container .award-card .left-image-container .absolute-image{position:absolute;top:0;bottom:0;right:0;left:0;background-size:contain;background-repeat:no-repeat;background-position:center center}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text{width:calc(50% + 10px);padding:10px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text .award-info{margin-bottom:20px}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text .award-info .award-place{font-weight:700;font-size:1rem;line-height:1.2rem;color:#000;margin-bottom:7px}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text .award-info .award-description{font-style:normal;font-weight:300;font-size:10px;line-height:150%}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text .award-info .year-and-city{font-weight:700;font-size:1rem;line-height:1.21rem;color:#000}.my-account-content .my-account-awards-list-block .flex-container .award-card .right-text .buttons-block{-ms-flex-wrap:wrap;flex-wrap:wrap}@media screen and (max-device-width:700px){.my-account-content .bg-outer .center-container .acf-field[data-name=user_class_profile]{width:100%}}@media screen and (max-device-width:500px){.my-account-content .my-account-awards-list-block .flex-container{margin:-15px 0;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.my-account-content .my-account-awards-list-block .flex-container .award-card{width:100%;margin:15px 0}}
